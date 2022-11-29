@@ -1,12 +1,16 @@
+#!/usr/bin/env python
+
 import requests
 import json
 import time 
 import argparse
 
-parser = argparse.ArgumentParser(description="Live ")
-args = parser.parse_args()
+
 
 def main():
+    parser = argparse.ArgumentParser(description="Live ")
+    args = parser.parse_args()
+    
     url = "https://api.fifa.com/api/v3/calendar/17/255711/285063/standing"
 
     querystring = {"language":"en"}
