@@ -3,5 +3,5 @@
 Follows the live group stage matches to display the Round of 16 and Quarter final matches based on team's current standing. 
 
 
-![Workflow of the broadband injection pipeline](https://github.com/Akshay-E/Fifa-_2022_live/blob/main/images/op.png)
+![Sample output ](https://github.com/Akshay-E/Fifa-_2022_live/blob/main/images/op.png)
 
